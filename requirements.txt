@@ -1,0 +1,2 @@
+-e git+https://github.com/django/django.git@88a2d39159872f6a7fced1bae591550650fd7f38#egg=Django-origin/master
+psycopg2==2.5.2

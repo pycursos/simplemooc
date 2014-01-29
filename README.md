@@ -9,7 +9,7 @@ O Simple MOOC é uma simples plataforma de ensino a distância para cursos no es
 Quais tecnologias serão utilizadas?
 -----------------------------------
 
-Inicialmente Python 3.x e Django 1.6 serão a base do desenvolvimento, outras bibliotecas que forme utilizadas serão mencionadas posteriormente.
+Inicialmente Python 3.x e Django (versão mais atualizada) serão a base do desenvolvimento, outras bibliotecas que forme utilizadas serão mencionadas posteriormente.
 
 Andamento do Projeto
 --------------------
